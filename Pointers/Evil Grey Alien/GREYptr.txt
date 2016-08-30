@@ -1,0 +1,28 @@
+Evil Grey Alien Pointer Set for OS/2
+
+The Grey Overlords are attempting to seize control of my computer.
+They have replaced all of my pointers and are using them for mind 
+control.   Visit the Grey Overlord Page for more information...
+
+	http://www.obscurasite.com/nick/grey.html
+
+Installation:
+
+If you are not familiar with installing OS/2 pointer sets here is
+briefly how it is done.  You will find a subdirectory under your
+os/2 directory called 'ponters', like this: /os2/pointers/.  Under
+that subdirectory there will be other subdirectories.  Each
+subdirectory under the /pointers directory is one set of OS/2
+pointers. 
+
+You can create a new directory there and put all the *.ptr files in
+it, or if you go to the /pointers directory and UNZIP this archive 
+the directory should be made for you.
+
+After that open MOUSE notebook in the the SYSTEM SETUP folder.
+There is a tab on the book for pointer sets.  You can load it from
+there.
+
+Grey Overlord pointers uploaded by Mr. Zed
+
+"Fight our grey overlords!"

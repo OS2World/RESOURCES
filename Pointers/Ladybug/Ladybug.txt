@@ -1,0 +1,20 @@
+Leon Grossman
+lgrossm@ceatlabs.okstate.edu
+January 31, 1997
+
+These are the animated update of my popular (OK, I got one email but I still
+like them.) Ladybug mouse pointers.  I stole the 3d red pointers from the
+Merlin distribution but the arrow, illegal, and wait pointers are mine.
+
+You must have Animouse or the Animated Mouse Pointer for OS/2 package
+installed to use these pointers properly.  If you have the proper program
+installed you can just copy the ladybug.and file to your OS2\pointers
+subdirectory and load it as a pointer set.  I have also included the .PTR
+files so that they can be edited or changed into a static mouse pointer set.
+If you edit my pointers, send me a copy. I might like your modifications
+better than my own.
+
+All I ask is that you send me an email with your comments, impressions,
+praise, etc... to lgrossm@ceatlabs.okstate.edu
+
+

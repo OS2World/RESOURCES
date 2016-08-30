@@ -1,0 +1,14 @@
+       Mouse Pointers Based on the Commodore Amiga
+
+Archive Name: AMI-PTR1.ZIP
+
+Program Description: Amiga-style mouse pointers
+
+Operating System: Warp v.3
+
+Program Source: author
+		Andy Longton
+		alongton@clark.net	
+
+Proposed directory for placement: OS2/WARP/GRAPHICS
+

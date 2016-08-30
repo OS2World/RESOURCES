@@ -1,0 +1,30 @@
+                             Rodent Pointers
+                             ===============
+
+ This is a set of pointers for use with OS/2. They were created using
+OS/2 warp during one lunch hour, and come from a belief that a mouse
+pointer should look like a small, furry animal.
+
+ Copy the file rodent.zip into the root directory of your boot drive
+(usually c:). You will need a program such as info-zip's unzip 5.12 to
+unpack the file. Type
+
+     unzip rodent
+
+this will install the pointers in \os2\pointers\rodent. Now click with
+your right mouse button on the backdrop, select system setup from the
+menu, double click on mouse, and the mouse settings notebook will
+appear. Select pointers, and on the pointers page click on Load Set.
+Choose Rodent from the list, and click on load. When you have stopped
+laughing close the notebook.
+
+ Note that for all the pointers except text the "hot spot" is the
+centre of the mouse's nose, and that in the wait state the mouse goes
+to sleep (eyes closed and ears folded, blood suppy to nose reduced).
+
+ These pointers are copyright Robert Billing, Tanglewood, Pinehill
+Road, Crowthorne, Berks, UK, but individuals who are OS/2 users may
+make use of them without charge. If you want to make commercial use of
+them please contact me at the above address, or by e-mail to
+rbilling@tnglwood.demon.co.uk for details of this month's special offer
+on volume licencing.

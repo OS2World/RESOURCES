@@ -1,0 +1,23 @@
+************************************************************************
+*
+*  Files                 Description
+*
+*  HANDY PACKAGE.........package header
+*  HANDY README..........installation notes
+*  HANDY ZIPBIN..........zipped handy pointers
+*
+*  To use Handy:
+*
+*  1. create \OS2\POINTERS\HANDY directory on OS/2 drive
+*  2. download HANDY package into this directory
+*  3. pkunzip HANDY.ZIP into \OS2\POINTERS\HANDY directory
+*  4. open "System Setup" folder from Desktop menu
+*  5. open "Mouse" object with a double-click
+*  6. click on "Pointers" from the notebook page
+*  7. click on "Load Set..." push button
+*  8. double-click on "HANDY" from Pointer Set list box
+*  9. close "Mouse" object
+*
+* By:  Chris Fierros
+************************************************************************
+

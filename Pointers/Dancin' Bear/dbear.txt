@@ -1,0 +1,56 @@
+This is the Dancin' Bear pointer set, please distribute 
+far and wide.  I hope this inspires you to create your
+own pointer set and also distribute it freely to other 
+OS/2 users.
+Ward Kaatz, May 13, 1996
+
+Updates
+=======
+June 11, 1996
+1. added VGA and 8514 devices
+2. changed arrow.ptr from 40x40 to 32x32
+
+
+
+============
+Installation
+============
+
+To install, unzip this package into your \os2\pointers directory.
+
+To do this from a command prompt, go to the \os2\pointers
+directory on your boot drive and type
+
+cd \os2\pointers
+
+Then unzip all the contents of this ZIP file
+
+unzip dbearptr
+
+A directory called dbear should now hold the pointers
+(if using pkunzip use the flag to retain directory
+structure).
+
+If using Object Desktop.  Open dbearptr.zip by
+double clicking it and then drag the dbear folder
+out onto the \os2\pointers directory from the 
+appropriate drives folder (or Object Navigator).
+
+=====================================
+To Change Your Pointer to Dancin Bear
+=====================================
+
+Right Mouse Click on and open area of the Desktop and 
+select System Setup from the popup folder.  The System 
+Setup Folder is also located in the main Warp Folder.
+
+Double click the Icon titled "Mouse" this will open the 
+mouse settings notebook.  Select the "Pointers" page of
+the notebook and Click the "Load Set" button.  You should
+now see a few choices, one of them should be dbear.  Select
+dbear and then click the "Load" button.
+
+Your Mouse pointer should now be "Dancin Bear".  Be sure to
+also check out the "Dancin' Bear" Web Explorer Animation at
+http://www.halcyon.com/wardk/pnwdead/
+

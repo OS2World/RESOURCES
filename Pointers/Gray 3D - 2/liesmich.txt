@@ -1,0 +1,14 @@
+Dieser Satz grauer 3D-Mauszeiger basiert auf einem von Martin H. Speiser (100013.1276@compuserve.com) konvertierten Satz. Das Original, das auf Hobbes (http://hobbes.nmsu.edu) als SOLIDPTR.ZIP zu finden ist, ist Freeware. Also auch dieser Satz :-).
+
+Mir gefielen einige der ursprnglichen Zeiger recht gut, allerdings fand ich, daá sie ein biáchen mehr 3D-Effekte vertragen k”nnten, weshalb ich einen zus„tzlichen Grauton benutzt habe. Bei den "Fenstergr”áen„nderungszeigern" fehlte eine gewisse, hm, Eleganz. Die neuen sehen besser aus :-) (behaupte ich mal). šbrigens war es ziemlich einfach, die Originalzeiger zu „ndern und neue mit den alten als Vorlage zu erstellen. Wenn ihnen ihre Mauszeiger also nicht gefallen, seien sie kreativ und probieren sie's mal aus!
+
+Falls mir jemand eine Nachricht zukommen lassen m”chte, z.B. fr Glckwnsche zu den tollen Zeigern oder zum Erfragen meiner Kontonummer fr eine kleine Spende ;-), kann sie/er mich unter christian.hennecke@ruhr-uni-bochum.de erreichen.
+
+Installation (unter Warp 4):
+----------------------------
+
+Die einfachste Methode ist, den Ordner GREY3D in das Verzeichnis \OS2\POINTERS\ zu ziehen. Sie k”nnen das Archiv natrlich auch direkt dorthin entpacken (am besten mit Info-Zip's UNZIP), aber da sie diese Datei lesen, ist es recht wahrscheinlich, daá sie es schon entpackt haben und der Ordner nur darauf wartet, an sein Ziel gezogen zu werden :-).
+
+™ffnen Sie das "Maus"-Objekt im Ordner "Systemkonfiguration" und w„hlen Sie den Reiter "Mauszeiger". Falls Sie den ganzen Zeigersatz laden wollen, klicken sie auf "Gruppe laden" und w„hlen Sie GREY3D. Falls nicht, ”ffnen Sie den Ordner in dem sich die Zeiger befinden und ziehen Sie den gewnschten Zeiger auf den zu ersetzenden.
+
+Es gibt fr einige Zeiger auch Alternativversionen fr Pfeil-, Warte- und Illegalzeiger. Um diese als Teil eines Zeigersatzes benutzen zu k”nnen, mssen sie entsprechend umbenannt werden.

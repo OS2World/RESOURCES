@@ -1,0 +1,13 @@
+I found a cigar pointer that looked like a Fuente years ago.  It just didn't 
+seem like enough so I created the sizing elements to look like a Zino cigar nipper.  Due to a hard drive crash earlier this year these are all original.
+
+I hope you like them.  I am releasing them into public domain, and ushering them 
+into the smoking room.  In the words of King Edward when he assumed the throne, 
+"Gentelmen, you may smoke".
+
+Unzip this into your \os2\pointers directory and select
+your mouse object and pointers, then cigar.
+
+Eric Laffoon - elaffoon@aracnet.com
+OS/2 and Premium cigars forever - That's an aroma, not a smell coming from my 
+office!
