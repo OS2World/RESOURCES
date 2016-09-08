@@ -1,0 +1,16 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: linico01.zip
+       Short Description: 78 icons (32x32) converted from those used in Linux KDE environment
+
+      Proposed directory
+           for placement: /pub/multimedia/images/icons
+
+               Your name: Ivan Kovalenko 
+           Email address: t-ronic@mail.ru
+
+      Would you like the
+   contact email address
+    included in listings? yes
+

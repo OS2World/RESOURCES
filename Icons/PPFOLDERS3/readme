@@ -1,0 +1,33 @@
+Upload Information Template for Hobbes
+======================================
+
+Archive Name: ppfolders3.zip
+Program Description: Warp folder icons with perspective animation
+Operating System/Version: Warp 3 / Connect
+Program Source: submitter
+Replaces: ---
+
+Your name: Phil Parker
+Your email address: pparker@twsuvm.uc.twsu.edu
+
+Proposed directory for placement: multimedia/icons
+
+
+
+These folder icons differ from others available in that I have 
+attempted to render the "opened" image with perspective. This
+seems to add to the visual appeal of the animation.
+   I have tried to keep the color schemes as simple as possible,
+but many will probably not look very good with less than 256-
+color displays. For those few icons that actually have a full 
+256-color pallette, the common pallette is included (256.PAL).
+   Each icon comes in three complete forms: Independent Color
+(VGA or SVGA), Independent Small Color, and Independent Small
+Black and White. The other forms are there for those who want 
+to complete them; in particular, XGA forms are not completed.
+I recommend following one of the available methods to patch
+your video driver to use 32x32 icons at XGA (1024x768) and
+higher resolutions.
+
+
+

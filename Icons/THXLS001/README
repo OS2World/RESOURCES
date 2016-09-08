@@ -1,0 +1,120 @@
+  =========================================================================
+    think::xels!
+    Copyright (C) 1998 edv-beratung wimmers, Germany
+  -------------------------------------------------------------------------
+
+    CONTENT
+
+    1. What think::xels! are?
+    2. Installation
+    3. Ordering
+    4. Problems?
+    5. Availability
+    6. How to contact?
+    7. Other Platforms
+
+  =========================================================================
+
+
+  -------------------------------------------------------------------------
+    1. What are 'think::xels!' ?
+  -------------------------------------------------------------------------
+
+  'think::xels!' is a collection of over 1200 high quality
+  symbols designed for OS/2. All symbols are well sorted and
+  newly designed.  They also support animation and 'statechanging'.
+  Developers can implement these icons in their own applications
+  with the proper license.
+
+  -------------------------------------------------------------------------
+    2. Installation
+  -------------------------------------------------------------------------
+
+  Before installing any part of this software, please read the file
+  LICENSE. Continue with installation will, acknowledgment that you
+  have read the file 'LICENSE' and accept the terms of this
+  license-agreement.
+
+  If you accept the terms of the license-agreement start an
+  OS/2-Commandshell. Change to the directory where you've unzipped
+  THXLS001.ZIP and type 'OS2ICO'.
+
+  This will start the selfextracting-archiv OS2ICO.EXE and will
+  result in a directory-structure starting with a directory 'OS2ICO'
+  in the current directory.
+
+  Explore the directorys and have fun!
+
+
+  -------------------------------------------------------------------------
+    3. Ordering
+  -------------------------------------------------------------------------
+
+  think::xels! are distributed by BMT Micro. Visit http://www.bmtmicro.com
+  See the file 'ORDER.FRM' for more info about ordering.
+
+  Desktop Licenses and Single Developer Licenses can also be ordered
+  via Compuserve's Software Registration Service (GO SWREG):
+
+  'Single Desktop User License'         SWREG-ID 16826
+  'Single Freeware Developer License'   SWREG-ID 16829
+  'Single Shareware Developer License   SWREG-ID 16827
+  'Single Commercial Developer License' SWREG-ID 16828
+
+  Read more about licenses in the file 'LICENSE'
+
+
+  -------------------------------------------------------------------------
+    4. Problems?
+  -------------------------------------------------------------------------
+
+  If you experience any problems with think::xels!, then we really want
+  to hear from you.  Please drop us an eMail and we will do our best to
+  resolve your problem.
+
+    eMail   : support@thinknow.com
+              76175.2276@compuserve.com
+
+  Internet  : http://www.thinknow.com
+  Telefax   : +49 4133 210063
+  CIS-Mail  : 76175,2276
+
+
+  -------------------------------------------------------------------------
+    5. Availability
+  -------------------------------------------------------------------------
+
+  'think::xels!' can be downloaded via:
+
+  Anonymous-ftp : ftp://ftp.wimmers.com/pub/thxls001.zip
+  Compuserve    : OS2UGER LIB#6 'Shareware & Tools' as thxls001.zip
+
+
+  -------------------------------------------------------------------------
+    6. How to contact?
+  -------------------------------------------------------------------------
+
+  You will find information about think::xels! on the internet
+  at http:/www.thinknow.com
+
+
+  -------------------------------------------------------------------------
+    7. Other Platforms
+  -------------------------------------------------------------------------
+
+  We ar working on the support for several platforms. If you need any
+  symbols provided with this Software on an other platform, feel free
+  to contact us.
+
+  You may never convert any part of this Software to an other format
+  or any other platform. Except linking to your application as Resource-DLL
+  and only if you have any developer-license,
+
+
+  Have fun!
+
+  Your think::now! - Team.
+  -------------------------------------------------------------------------
+  edv-beratung wimmers
+  21423 Winsen (Luhe), Germany
+
