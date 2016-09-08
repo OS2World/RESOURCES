@@ -1,0 +1,47 @@
+This is obviously a Zipfile of various STAR WARS icons I made. They were 
+desined on Icon Designer by an unknown author. I hope you enjoy having these
+icons on your STAR WARS desktop.
+
+The icons included, are:
+
+ALLILOG1 ICO  The basic logo, on a white background.  
+ALLILOG2 ICO  Same as above, on a blue background.
+ARTOO    ICO  This icon is a rendition of the famous R2-D2. Mind you, this 
+              is a very basic representation.
+AWING    ICO  This icon is of the speed-demon of the Alliance in action.
+BLASTER  ICO  Han's favorite DL-44 blaster pistol.
+BWING    ICO  The frigate killer in action.
+C3PO     ICO  The talkative droid comes to your screen, sort of.
+DARTH    ICO  Dark Lord of the Sith, Darth Vader. Also, very basic 
+              rendition.
+FALCON   ICO  Han's favorite ship in an icon.
+IMPLOGO  ICO  No mistaking this logo, striking fear in the minds of 
+              millions.
+LTSAB1   ICO  Luke's replacement 'saber. A good one, but limited.
+LTSAB2   ICO  A duel between two 'saber blades.
+LTSAB3   ICO  This is Anakin Skywalker's 'saber, given to Luke. Very good 
+              'saber, but lost during their battle.
+NRLOGO   ICO  A logo for the New Republic. Based on various sources.
+STDESTR  ICO  The massive ships that the Empire loves so much.
+STRMTROP ICO  A rendition of a cloned??? troop that will serve the Emperor's
+              every will.
+SWLOGO   ICO  This is the logo that we ALL know and love. 
+T_A      ICO  The Empire's speed demon, as flown by Darth Vader himself.
+T_B      ICO  The mass destroyer of ship-to-ship combat.         
+T_F      ICO  This fighter wins by number, supposedly.  
+T_I      ICO  The final version, as seen later in the Trilogy.
+XWING    ICO  Basic space superiority vessel, that carries Luke to victory.       
+YWING    ICO  The alliance's answer to delivering warheads quickly.       
+        
+Well, here are the icons, now unzip them into a directory of your choice. 
+The Windows directory would be helpful, but not necessary. That's it, you 
+can now use them for whatever programs you feel like using them on. Please 
+tell me what you think, I can ALWAYS make more.
+
+Robert A. Cashman 75473,1141 (Compuserve) 
+RED 28 "Kyp"
+
+
+File Updated 6-06-95
+
+Converted all Icons to OS/2 - Sam Beckett ...  EABV94A@PRODIGY.COM

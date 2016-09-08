@@ -1,0 +1,80 @@
+Literary Icons for OS/2
+-----------------------
+
+This is a small collection of icons I created based on the books I
+happened to have handy which had pictures of thier authors on or in
+them.  The graphics were scanned, carefully reduced in size and
+colour depth, and touched up where needed.
+
+The results may be, to some, laughable.  You may have to use your
+imagination a bit to recognize the persons portrayed.  Some turned
+out better than others, due to many factors.  But what do you expect
+from 16 colour, 32x32 icons!  In fact, there are only four colours
+used in each icon as they are 'black and white'. They work for me.
+
+
+Long Filenames
+--------------
+The files in this archive are stored with long filenames and
+extended atributes.  For best results hopefully you have extracted
+this archive with Infozip's OS/2 UNZIP utility.
+
+
+Who's Here?
+-----------
+Using long filenames makes all the icon files easily identifiable in
+directory listings.  You will notice that there are several
+variations for most of the icons.  The variations are simply
+different colour backgrounds, in all but one case.
+
+Who is Charles Williams?  One of my favorite authors.  Perhaps his
+name is the most unrecognizable, so I thought i'd mention it.  He
+wrote seven excellent novels.
+
+You may also notice Vincent Van Gough among the icons.  While not an
+author, he is of course an artist, and i just happened to have a
+biography of him nearby.  That is, I believe, enough justification;
+however he did write a few things that are still in existance.
+A sunday sermon which he preached early on in his 'career', though no 
+masterpiece of literary writing (i've heard), for example.
+
+
+Contents
+--------
+Blaise Pascal (green).ico
+Blaise Pascal (trans).ico
+Blaise Pascal.ico
+Charles Williams (cyan).ico
+Charles Williams (gold).ico
+Charles Williams (red).ico
+Charles Williams (trans).ico
+Edgar Allen Poe.ico
+Franz Kafka (gold).ico
+Franz Kafka (red).ico
+Franz Kafka (trans).ico
+Franz Kafka.ico
+Fyodor Dostoyevsky (red).ico
+Fyodor Dostoyevsky (trans 2).ico
+Fyodor Dostoyevsky (trans).ico
+Fyodor Dostoyevsky.ico
+Mary Shelley.ico
+Plato (cyan).ico
+Plato (trans).ico
+Plato.ico
+Robert Frost (cyan).ico
+Robert Frost (gold).ico
+Robert Frost (green).ico
+Robert Frost (trans).ico
+Robert Frost.ico
+Vincent Van Gogh.ico
+William Shakespeare (purple).ico
+William Shakespeare (trans).ico
+William Shakespeare.ico
+
+
+Me
+--
+Tim Middleton
+as544@torfree.net
+Oct/95
+

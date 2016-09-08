@@ -1,0 +1,18 @@
+One of the nicest features exclusive to WebExplorer and the Workplace
+Shell is the ability to drag-and-drop URLs for web pages.  These URL
+objects can be nicely organized into folder trees, leaving Netscrap's
+bookmarks in the dust.
+
+Since I run almost everything from my LaunchPads (plural - see
+ftp://hobbes.nmsu.edu/os2/wpsutil/newpad.zip) *without* text on the pads
+or drawers, I needed a little something more than a plain-jane folder
+for my URLs.
+
+So I made these.
+
+Easiest way to use'em is to unzip'em onto your Desktop (if your system
+is installed on C:, use UNZIP WXFldICO -d C:\DESKTOP), then open the
+Settings for the folder you keep your URLs in and drag-n-drop'em into
+the General pages (you should know how to do this by now).
+
+soundy@nextlevel.com

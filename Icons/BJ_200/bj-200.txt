@@ -1,0 +1,12 @@
+       OS/2 Upload Information Template for ftp-os2.nmsu.edu
+
+Archive Name: BJ-200.ICO
+Program Description: a printer icon that looks like a Canon BJ200
+Operating System Versions: any
+Program Source: downloaded from compuserve
+Replaces: 
+
+Your email address: mohrc@python.cs.orst.edu
+
+Proposed directory for placement: icons
+

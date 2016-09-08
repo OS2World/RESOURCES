@@ -1,0 +1,500 @@
+HPK Icons
+=========
+Version 2.0.1 for OS/2
+======================
+README
+======
+
+Contents
+=-=-=-=-
+
+About the icons
+
+About OS/2 icons in general
+
+A few hints on using the Icon Editor
+
+Package contents
+
+Availability
+
+Feedback to the author
+
+History of changes
+
+
+About the icons
+=-=-=-=-=-=-=-=
+
+The images
+----------
+
+All HPK Icons are carefully made and consist of all forms that are in the
+standard icons that come with OS/2. This way the images don't have to be
+scaled up or down with ugly results. The default 16-color palette is used
+throughout. This minimizes color mixups due to programs changing the display
+palette. Some icon pairs are suited well for folder animation.
+
+
+The names
+---------
+
+The scheme of descriptive names keeps the icons in a useful order when they
+are sorted by name. (If the files are sorted by type, the text files appear
+before the icon files instead of between them.) The base part of the filenames
+consists of "atomic" parts separated by underscores. When deciding between
+brevity and meaning, I choose the latter. Because of that a few names are
+rather overdone, but shortening these names would mean either breaking the
+naming scheme or making it incomprehensible for the shorter names, both of
+which I don't want.
+
+The naming scheme is demonstrated in the following examples:
+
+1. [D:\docs\HPK Icons] dir arr_*
+
+   List all icons with an arrow as the base element
+
+2. [D:\docs\HPK Icons] dir *_char*
+
+   List all icons with one or more characters as an additional element
+
+3. [D:\docs\HPK Icons] dir *picframe*
+
+   List all icons with the picframe element
+
+   Note: Since the picframe element has no style variations,
+         "picframe" must not be followed by an underscore in this case,
+         otherwise picframe.ICO would not be listed.
+
+4. [D:\docs\HPK Icons] dir *_green_dark.*
+
+   List all icons with a dark green styled foremost element
+
+5. [D:\docs\HPK Icons] dir *_red*
+
+   List all icons with red (dark or not) styled elements
+
+6. [D:\docs\HPK Icons] dir *_with_* *_and_*
+
+   List all icons that are combinations of elements
+
+
+KEDIT.ICO, KEDIT_transpar.ICO, THE.ICO, THE_transpar.ICO
+--------------------------------------------------------
+
+KEDIT is a text editor by Mansfield Software Group that is sold commercially.
+THE (The Hessling Editor) is a similar editor by Mark Hessling
+<M.Hessling@qut.edu.au> which is under the GNU General Public License.
+
+KEDIT.ICO is similar to the KEDIT manual cover in the lines, the shape of the
+"K", and the colors. The colors in it are similar to the default color table
+of KEDIT; the colors in THE.ICO are similar to the default color table of THE.
+I.e. these icons have the same colors the editors use by default.
+
+KEDIT_transpar.ICO and THE_transpar.ICO are most useful on dark color or image
+backgrounds.
+
+
+mon_darken.ICO
+--------------
+
+I use this icon for program objects for the screen saver Blackout by Staffan
+Ulfberg <staffanu@nada.kth.se> which is under the GNU General Public License.
+The default operation of this screen saver is to reduce the display to
+semidarkness in the first step and to switch the monitor to power saving modes
+in later steps.
+
+
+NLL.ICO
+-------
+
+This icon consists of scaled down versions of the logo of the amateur rock
+band No Love Lost headed by Terry Olan Jones <terryj@sfu.ca>. The No Love Lost
+"fun pack" that is available from him by e-mail contains audio samples from
+the album and the band logo.
+
+I use this icon for a folder with the No Love Lost "fun pack".
+
+
+Shell.ICO
+---------
+
+A few years ago Shell had a campaign of magazine advertisings here in Germany
+that included a set of drawings showing how the Shell logo is constructed. One
+day I tried to follow these drawings and made a Shell.BMP. Shell.ICO consists
+of scaled down versions of this bitmap with a few manual corrections.
+
+I use this icon for an "Other Shells" folder containing shadows of the "OS/2
+Window", "DOS Window" and "WIN-OS/2 Window" objects.
+
+
+arr_thickbent_nw_ne_blue.ICO, Floyd_94.ICO
+------------------------------------------
+
+These icons also consist of scaled down versions of larger images.
+
+
+standardforms.ICO
+-----------------
+
+Like all the other HPK Icons, standardforms.ICO consists of all forms that are
+in the standard icons that come with OS/2, but the images are nothing but
+transparent. This icon is provided as a template for your own icons.
+
+In fact, standardforms.ICO should appear as a template if you view the folder
+containing the HPK Icons with the Workplace Shell. Also, after you did this,
+it should appear in the "Create another" cascaded menu of the pop-up menu of
+any icon.
+
+
+If standardforms.ICO is not a template
+- - - - - - - - - - - - - - - - - - -
+
+If standardforms.ICO is not under "Create another" in the pop-up menu of the
+icons, the workplace shell obviously hasn't recognized it as a template. I can
+think of two reasons for this. Probably you haven't yet viewed the folder
+containing it. If you did, it probably lost its extended attributes. Then
+unpack it again from the HPK Icons package you received it in if you still
+have it. Of course, the file system where it is stored must support extended
+attributes for this. If you don't have the package anymore, open the settings
+and select the Template check box on the General page.
+
+If you can't make standardforms.ICO a template, don't worry. The purpose of a
+template is just to provide a convenient way of making a new copy of it, so
+just copy it yourself instead.
+
+If standardforms.ICO has lost its EAs and you want to redistribute the HPK
+Icons, use a separate program to make standardforms.ICO a template again. A
+simple REXX program can do this. Better yet, contact the author because the
+HPK Icons may have been changed otherwise, too.
+
+
+About OS/2 icons in general
+=-=-=-=-=--=-=-=-=-=-=-=-=-
+
+Animated icons
+--------------
+
+With OS/2 Warp, folders can have "animated icons". The animation consists of a
+second icon being used when the folder is open. Still, this animation icon is
+*not* used in some prominent places like the title bar of the folder window
+itself.
+
+Note that in the settings of a folder there are two pages under General. Page
+1 is as usual, while page 2 is for the animation icon. Be sure to check both
+pages when changing the icon of a folder. If you drag an animated icon from a
+folder object (e.g. the "OS/2 System" folder) to one of the pages, both pages
+are changed simultaneously. However, if you drag a normal icon to one of the
+pages, the other page is *not* changed. Of course something like this is
+necessary so you can combine two normal icons into an animated one. If you
+want to change from an animated icon to a normal icon, first change the icon
+on page 1 and then disable the animation by selecting the Default button on
+page 2; the animation icon will disappear.
+
+
+Icon forms
+----------
+
+Q: Which form should I use when creating icons? Independent VGA or the
+   other formats?
+
+A: Yes. I mean, use all that are marked with an asterisk in the Icon Editor,
+   which means they are recommended. You get to the list with these marks via
+   Device - List - Add.
+
+Q: Why are these icon forms recommended? I mean, why should the icon file
+   contain all of these forms?
+
+A: If not all of them are in the icon file, the missing ones will be scaled up
+   or down from one of the others when they are needed, and this is ugly in
+   most cases.
+
+Q: Please explain the recommended and other standard icon forms in greater
+   detail. And what's the matter with this scaling?
+
+A: With screen resolutions of 640x480 or 800x600 pixels, the normal icons are
+   32x32 pixels and the small ones (e.g. in the title bars) are 16x16 pixels.
+   With resolutions of 1024x768 or higher, the normal ones are 40x40 and the
+   small ones are 20x20.
+
+   If these forms are missing in the icon file, they will be scaled up or down
+   from the ones that are there, which can make them very ugly. To scale 32x32
+   up to 40x40, eight "rows" and eight "columns" will be doubled, which is
+   instantly noticeable because e.g. slanted lines become jagged and maybe
+   some straight lines become double thick while others don't. Excellent
+   examples for these effects are icons of objects for Windows programs. And
+   if a larger form has to be scaled down, rows and columns are left out,
+   which is even worse because visual information gets lost.
+
+   Here's a table of all the forms in the standard icons:
+
+      Size   Colors  Used at Res.   Title
+
+      32x32      16   <= 800x600   *Independent Color Form (=VGA)
+      16x16      16         "      *Independent Small Color Form
+      16x16       2         "       Independent Small BW Form
+      40x40      16  >= 1024x768   *XGA/8514 - 16 colors
+      20x20      16         "      *XGA/8514 Small Color Form
+      20x20       2         "       XGA/8514 Small BW Form
+      32x32       2  black-white   *Independent BW Form (=1.1 format)
+
+      An asterisk means that the form is recommended.
+
+   Note that there are five recommended forms but two more standard forms.
+   These two, the small BW forms, were used in OS/2 2.x where now the small
+   color forms are used. (If an icon contains the small BW form but not the
+   small color form, the BW one is still used in version 3.) In other words,
+   if you want your icons work nicely in 2.x too, you might want to use the
+   small BW forms also. In this case it's important to know that all colors
+   appear as black where small forms are used in OS/2 2.x - a pixel can appear
+   either as black, the background, or the reverse background. So don't use
+   white in the small BW forms.
+
+Q: All these icon forms are too much of a hassle for me. I'd like to make good
+   icons but I don't want to have a lot of work. Which forms should I leave
+   out then?
+
+A: Then leave out all BW forms. Most people have color displays and are using
+   Warp anyway. (Then again, a BW form is easy to make once you have the color
+   form of the same size.) This leaves you with four forms. Read on.
+
+Q: Can I use the 32x32 and 16x16 images for the 40x40 and 20x20 forms?
+
+A: Yes. Just copy and paste those images into the slightly larger forms (but
+   not using Stretch Paste, of course). You may still want to extend parts
+   like a base color or a background pattern to the edges if the images look
+   better that way.
+
+Q: I have a 32x32 or 40x40 image. How can I make a 16x16 or 20x20 image out of
+   it?
+
+A: * Choose an important part of the image that is small enough to fit into
+     the smaller form, and leave out the rest.
+
+   * Reduce the number of similar elements.
+
+   * Leave out unimportant details.
+
+   * Reduce crucial details to an absolute minimum.
+
+   * Try to find out whether certain image part sizes are fixed or depend on
+     the overall image size (or on each other), and use these dependencies to
+     scale the image down (or up for that matter).
+
+
+A few hints on using the Icon Editor
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+* To change among the icon forms quickly and easily, click on the form name in
+  the status area and use the arrow keys.
+
+* To sort the icon forms within the editor, choose List in the Device menu and
+  use the Up and Down buttons.
+
+  Not every conceivable order is possible, and apparently the order changes
+  most of the times an icon is saved and restored. Still, an order that keeps
+  similar forms together makes editing easier. I have found the following
+  possible order useful:
+
+      Size   Colors   Title
+
+      16x16       2   Independent Small BW Form
+      16x16      16  *Independent Small Color Form
+      32x32       2  *Independent BW Form (=1.1 format)
+      32x32      16  *Independent Color Form (=VGA)
+      20x20       2   XGA/8514 Small BW Form
+      20x20      16  *XGA/8514 Small Color Form
+      40x40      16  *XGA/8514 - 16 colors
+
+* To choose a non-square pen size, click on the pen size in the status area
+  and use the arrow keys, or mark an area of that size and press Alt+J.
+
+* As with other PM programs, try to learn the shortcut key combinations for
+  the operations you do most frequently. They are listed next to the names in
+  the menus, and can be found by selecting "Keys help" in the Help menu.
+
+
+Package contents
+=-=-=-=-=-=-=-=-
+
+The HPK Icons package consists of the following files:
+
+   date              size  EAs  name
+   dd.mm.yy  hh.mm
+
+   25.01.96   8.23  20395    0  README
+   18.01.96  19.43    486    0  FILE_ID.DIZ
+    9.12.95  13.13   4026    0  arr_conic_ne_green_dark.ICO
+    9.12.95  13.26   4026    0  arr_conic_se_red_dark.ICO
+    9.12.95  13.25   4026    0  arr_conic_small_se_red_dark_and_arr_conic_small_ne_green_dark.ICO
+    9.12.95  14.19   4026    0  arr_ne_green_dark.ICO
+   16.12.95  17.23   4026    0  arr_ne_green_dark_with_selectorpanel_small_grey_yellow.ICO
+    9.12.95  14.17   4026    0  arr_se_blue.ICO
+    9.12.95  14.18   4026    0  arr_se_red_dark.ICO
+   13.01.96  20.29   4026    0  arr_thickbent_nw_ne_blue.ICO
+   19.08.95  13.32   4026    0  blackhole.ICO
+    9.12.95  16.06   4026    0  car_round_red.ICO
+   16.12.95  18.15   4026    0  car_round_red_with_driver.ICO
+   24.12.95  17.49   4026    0  chars_COPY_yellow.ICO
+   20.12.95  23.00   4026    0  chars_HPK_blue.ICO
+   24.12.95  17.51   4026    0  chars_ICO_yellow.ICO
+   24.12.95  17.52   4026    0  chars_LOCAL_yellow.ICO
+   13.01.96  19.45   4026    0  chars_serif_TeX_yellow.ICO
+   20.12.95  23.03   4026    0  chars_TeX_yellow.ICO
+   20.12.95  23.03   4026    0  chars_ZIP_yellow.ICO
+   24.12.95  17.45   4026    0  char_A_brown.ICO
+   23.12.95  21.54   4026    0  char_excla_blue.ICO
+   23.12.95  21.55   4026    0  char_excla_red.ICO
+   23.12.95  22.02   4026    0  char_P_grey.ICO
+   23.12.95  21.32   4026    0  char_ques_excla_blue.ICO
+   25.11.95  22.51   4026    0  checker.ICO
+   10.12.95  22.53   4026    0  dice.ICO
+   10.12.95  23.02   4026    0  dice_open.ICO
+    8.01.96  22.32   4026    0  disk_525.ICO
+   26.10.95  22.54   4026    0  fermenter.ICO
+   26.10.95  22.55   4026    0  fermenter_open.ICO
+   15.01.96  21.23   4026    0  Floyd_94.ICO
+   16.12.95  18.29   4026    0  picframe.ICO
+   20.12.95  23.12   4026    0  picframe_with_chars_HPK_blue.ICO
+   16.12.95  18.30   4026    0  picframe_with_wrench_grey_dark.ICO
+    9.12.95  18.37   4026    0  picframe_with_wrench_grey_dark_with_hand.ICO
+    4.12.95  11.36   4026    0  hatch_black_yellow.ICO
+    4.12.95  11.37   4026    0  hatch_red_white.ICO
+   24.12.95  18.10   4026    0  KEDIT.ICO
+   24.12.95  18.11   4026    0  KEDIT_transpar.ICO
+    8.01.96  22.16   4026    0  Kilroy.ICO
+    9.12.95  23.36   4026    0  Kilroy_gone.ICO
+    8.01.96  22.18   4026    0  Kilroy_grin_without_wall.ICO
+    8.01.96  22.18   4026    0  Kilroy_sober_without_wall.ICO
+    8.01.96  22.19   4026    0  Kilroy_surprised_without_wall.ICO
+   21.10.95  14.35   4026    0  mon_darken.ICO
+   15.01.96  21.55   4026    0  NLL.ICO
+   16.12.95  17.51   4026    0  pen_brown.ICO
+   16.12.95  17.50   4026    0  pen_brown_with_hand.ICO
+   12.11.95  14.32   4026    0  scroll.ICO
+   12.11.95  14.32   4026    0  scroll_open.ICO
+   16.12.95  17.39   4026    0  selectorpanel_grey_yellow.ICO
+   16.12.95  17.38   4026    0  selectorpanel_slideonly_grey_yellow.ICO
+   26.12.95  18.52   4026    0  Shell.ICO
+    9.12.95  14.34   4026    0  sign_arr_se.ICO
+   27.08.95  13.37   4026    0  sign_caution.ICO
+    4.12.95  11.50   4026    0  sign_caution_grad_down.ICO
+    4.12.95  11.49   4026    0  sign_caution_grad_up.ICO
+    4.09.95  20.39   4026    0  sign_donotenter.ICO
+   12.11.95  21.30   4026    0  sign_forbidden.ICO
+    9.12.95  18.41   4026    0  sign_forbidden_wrench.ICO
+   27.11.95   0.01   4026    0  sign_no_checker.ICO
+    9.12.95  18.48   4026    0  sign_no_wrench.ICO
+   17.01.96   8.14   4026    0  sign_prio.ICO
+    9.12.95  23.04   4026    0  sign_STOP.ICO
+   19.08.95  13.08   4026    0  sign_yield.ICO
+    9.12.95  19.54   4026    0  THE.ICO
+    9.12.95  19.57   4026    0  THE_transpar.ICO
+    9.12.95  16.22   4026    0  van_round_red.ICO
+   16.12.95  18.15   4026    0  van_round_red_with_driver.ICO
+    9.12.95  18.48   4026    0  wrench_grey_dark.ICO
+   23.12.95  21.49   4026    0  wrench_grey_dark_with_char_ques_excla_blue.ICO
+    9.12.95  16.53   4026    0  wrench_grey_dark_with_hand.ICO
+   19.08.95  11.47   4026  129  standardforms.ICO
+
+   The EAs of standardforms.ICO contain the TEMPLATE=YES setting.
+
+
+Availability
+=-=-=-=-=-=-
+
+Technical
+---------
+
+The current version of the HPK Icons package should be available where you got
+this version from, or on the Internet via anonymous FTP. The servers where it
+is originally distributed are ftp.cdrom.com in the USA and
+ftp.uni-stuttgart.de in Germany. The appropriate directory on cdrom.com is
+pub/os2/multimed/icons; on uni-stuttgart it is pub/systems/os2/graphics/icons.
+The HPK Icons package is the ZIP file hpkico??.zip, where ?? are the (first)
+digits of the version number. If it has just been uploaded, it will be in the
+directory pub/os2/incoming on cdrom.com; on uni-stuttgart, read access to the
+incoming directories is denied to anonymous FTP users.
+
+In short, the URLs of these locations are:
+
+   ftp://ftp.cdrom.com/pub/os2/multimed/icons/
+   ftp://ftp.cdrom.com/pub/os2/incoming/
+
+   ftp://ftp.uni-stuttgart.de/pub/systems/os2/graphics/icons/
+
+As an example, the URLs of the HPK Icons version 2.0 ZIP file in these
+locations are:
+
+   ftp://ftp.cdrom.com/pub/os2/multimed/icons/hpkico20.zip
+   ftp://ftp.cdrom.com/pub/os2/incoming/hpkico20.zip
+
+   ftp://ftp.uni-stuttgart.de/pub/systems/os2/graphics/icons/hpkico20.zip
+
+
+Legal
+-----
+
+This version of the HPK Icons package is freeware. It may be made available in
+a manner or with a product that is not free, but it must be available for free
+itself.
+
+The HPK Icons package may be distributed if everything is included without any
+change and nothing is added. This also applies to the non-icon files, the
+extended attributes, and the filenames.
+
+You may have the contents of the HPK Icons package stored on a file system
+that does not support extended attributes or long filenames, or in a directory
+that contains other files or directories. However, you may not redistribute
+them in that way or from there.
+
+You may modify or extract any part of the HPK Icons package for personal or
+company use. However, you may not make the result available to a third party
+as or in a new product unless it is also freeware and contains a reference to
+the HPK Icons with version number as the source of that part, with
+standardforms.ICO as the only exception to this requirement.
+
+There is no warranty.
+
+   HPK Icons package
+   Copyright 1996 by Horst Kiehl
+   All rights reserved
+
+
+Feedback to the author
+=-=-=-=-=-=-=-=-=-=-=-
+
+If you have any questions, comments, or suggestions, especially for new icons,
+or if you have found an error, please contact me. Your feedback is welcome.
+
+   Horst Kiehl
+   h.p.kiehl@kfa-juelich.de
+
+
+Version history
+=-=-=-=-=-=-=-=
+
+Previous: Was available only at the work place of the author, or directly from
+          him. Contained some icons in OS/2 2.x style, i.e. with shadows and
+          some non-default palettes, and had an inferior naming scheme.
+
+          A companion collection contained modified versions of some standard
+          icons in OS/2 2.x.
+
+2.0:      First general availability
+
+2.0.1:    Changed: Arrangement of version history (right here in this README)
+
+          Updated: Mark Hessling's e-mail address (in this README)
+
+          Improved: Mention about the saving and restoring of the order of the
+                    icon forms (in this README)
+
+          Added: Mention of denied read access to the incoming directories on
+                 ftp.uni-stuttgart.de (in this README)
+
+          Corrected: sign_atten*.ICO renamed to sign_caution*.ICO
+
+          Improved: frame*.ICO renamed to picframe*.ICO
+
+          Improved: *tool*.ICO renamed to *wrench*.ICO

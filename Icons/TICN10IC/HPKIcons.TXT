@@ -1,0 +1,98 @@
+The following icons originated from HPK Icons 2.0.1 (hpkico20.zip),
+Copyright 1996 by Horst Kiehl <h.p.kiehl@kfa-juelich.de>:
+
+    New Name                     Original Name
+    ~~~~~~~~                     ~~~~~~~~~~~~~
+Arrow-NE 01.ICO         arr_conic_ne_green_dark.ICO
+Arrow-SE 01.ICO         arr_conic_se_red_dark.ICO
+Arrows 02.ICO           arr_conic_small_se_red_dark_and_arr_conic_small_ne_green_dark.ICO
+Arrow-NE 02.ICO         arr_ne_green_dark.ICO
+Arrow-NE 03.ICO         arr_ne_green_dark_with_selectorpanel_small_grey_yellow.ICO
+Arrow-SE 02.ICO         arr_se_blue.ICO
+Arrow-SE 03.ICO         arr_se_red_dark.ICO
+Arrow-Right 04.ICO      arr_thickbent_nw_ne_blue.ICO
+Black Hole 03.ICO       blackhole.ICO
+Car 03.ICO              car_round_red.ICO
+Car 04.ICO              car_round_red_with_driver.ICO
+Copy.ICO                chars_COPY_yellow.ICO
+HPK 1.ICO               chars_HPK_blue.ICO
+Icon 03.ICO             chars_ICO_yellow.ICO
+Local.ICO               chars_LOCAL_yellow.ICO
+TeX 02.ICO              chars_serif_TeX_yellow.ICO
+TeX 03.ICO              chars_TeX_yellow.ICO
+Zip 04.ICO              chars_ZIP_yellow.ICO
+A 2.ICO                 char_A_brown.ICO
+Exclamation 01.ICO      char_excla_blue.ICO
+Exclamation 02.ICO      char_excla_red.ICO
+P 1.ICO                 char_P_grey.ICO
+Exclamation-Q.ICO       char_ques_excla_blue.ICO
+Chess Board 3.ICO       checker.ICO
+Dice 1.ICO              dice.ICO
+Dice 2.ICO              dice_open.ICO
+Disk-5.25" 04.ICO       disk_525.ICO
+Fermenter 1.ICO         fermenter.ICO
+Fermenter 2.ICO         fermenter_open.ICO
+Pink Floyd '94.ICO      Floyd_94.ICO
+Frame 1.ICO             picframe.ICO
+HPK 2.ICO               picframe_with_chars_HPK_blue.ICO
+Util. 12.ICO            picframe_with_wrench_grey_dark.ICO
+Util. 13.ICO            picframe_with_wrench_grey_dark_with_hand.ICO
+Hatch 01.ICO            hatch_black_yellow.ICO
+Hatch 02.ICO            hatch_red_white.ICO
+KEdit 04.ICO            KEDIT.ICO
+KEdit 05.ICO            KEDIT_transpar.ICO
+Kilroy 01.ICO           Kilroy.ICO
+Kilroy 02.ICO           Kilroy_gone.ICO
+Kilroy 03.ICO           Kilroy_grin_without_wall.ICO
+Kilroy 04.ICO           Kilroy_sober_without_wall.ICO
+Kilroy 05.ICO           Kilroy_surprised_without_wall.ICO
+Video-Monitor 03.ICO    mon_darken.ICO
+NLL.ICO                 NLL.ICO
+WP 29.ICO               pen_brown.ICO
+WP 30.ICO               pen_brown_with_hand.ICO
+Scroll 1.ICO            scroll.ICO
+Scroll 2.ICO            scroll_open.ICO
+Selector Panel 1.ICO    selectorpanel_grey_yellow.ICO
+Selector Panel 2.ICO    selectorpanel_slideonly_grey_yellow.ICO
+Shell Logo.ICO          Shell.ICO
+Arrow-SE 04.ICO         sign_arr_se.ICO
+Caution 06.ICO          sign_caution.ICO
+Grad Down.ICO           sign_caution_grad_down.ICO
+Grad Up.ICO             sign_caution_grad_up.ICO
+Stop 08.ICO             sign_donotenter.ICO
+Sign 01.ICO             sign_forbidden.ICO
+Util. 14.ICO            sign_forbidden_wrench.ICO
+No Games 2.ICO          sign_no_checker.ICO
+No Util. 2.ICO          sign_no_wrench.ICO
+Sign 02.ICO             sign_prio.ICO
+Stop 07.ICO             sign_STOP.ICO
+Yield 2.ICO             sign_yield.ICO
+THE 1.ICO               THE.ICO
+THE 2.ICO               THE_transpar.ICO
+Van 01.ICO              van_round_red.ICO
+Van 02.ICO              van_round_red_with_driver.ICO
+Util. 09.ICO            wrench_grey_dark.ICO
+Util. 11.ICO            wrench_grey_dark_with_char_ques_excla_blue.ICO
+Util. 10.ICO            wrench_grey_dark_with_hand.ICO
+Standard Forms Icon.ICO standardforms.ICO
+
+Legal (from the original package):
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This version of the HPK Icons package is freeware. It may be made available in
+a manner or with a product that is not free, but it must be available for free
+itself.
+
+The HPK Icons package may be distributed if everything is included without any
+change and nothing is added. This also applies to the non-icon files, the
+extended attributes, and the filenames.
+
+You may have the contents of the HPK Icons package stored on a file system
+that does not support extended attributes or long filenames, or in a directory
+that contains other files or directories. However, you may not redistribute
+them in that way or from there.
+
+You may modify or extract any part of the HPK Icons package for personal or
+company use. However, you may not make the result available to a third party
+as or in a new product unless it is also freeware and contains a reference to
+the HPK Icons with version number as the source of that part, with
+standardforms.ICO as the only exception to this requirement.

@@ -1,0 +1,21 @@
+
+	OS/2 Upload Information Template for ftp-os2.nmsu.edu
+
+Archive Name: TOS2ICON.ZIP
+Pogram Description: Team OS/2 open and close folder icons
+Operating System Versions: OS/2 Warp
+Program Source: No
+Replaces:
+ 
+Your name: K. Leon Kwok
+Your email address: lkwok@calc.vet.uga.edu
+
+Your WWW address:
+Proposed directory for placement: /os2/graphics
+
+This file contains two icon images: "open folder" and "close folder" icons; both have
+Team OS/2 logo in it.  To change the icon of a folder (open/close), open the Settings notebook of the object and select the "General" tab page and just drap either icon image
+to the "Current icon" area.  Just that simple!
+
+Feel free to distribute among Team OS/2 members.
+
