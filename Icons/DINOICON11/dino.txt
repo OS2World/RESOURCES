@@ -1,0 +1,6 @@
+Replacement icons for Mozilla. To apply copy the archive to your Mozilla\bin 
+directory and execute dino.cmd
+
+New 1.1: eCS Folder Icons added thanks to Dieter Wachsmuth
+
+Klaus Staedtler <staedtler-przyborski@web.de>

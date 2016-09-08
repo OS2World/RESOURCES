@@ -1,0 +1,63 @@
+A theme based on an Amiga theme I saw with hopefully lots of improvements.
+
+THIS THEME ONLY WORKS WITH ECOMSTATION 2.0 AND ITS BETAS.  ALSO, ICON THEMES AND WINDOWS THEMES MUST HAVE BEEN INSTALLED DURING ECOMSTATION'S INSTALLATION.
+
+This theme is based on an Amiga theme I saw, but it is not the same.  Hopefully, I was able to enhance a few things.
+
+Use this theme at your own risk.
+
+
+1.  To use, copy the "Amiga" directory to your "<drive:\ecs\system\itheme" directory.
+
+2. Either copy the
+
+ithemes.1st
+
+file to same itheme directory also or copy and paste the following line to your "ithemes.1st" file in your "ithemes" directory.
+
+AMIGA;An Amiga styled theme;Blue cabinets. Designed by David Graser
+
+3> Copy the two bmps,
+
+amiga_active_titlebar.bmp
+amiga_inactive_titlebar.bmp
+
+to your "<drive>:\ecs\system\estyler\bitmap\tbkgnds" directory.
+
+4. Copy the two bmps,
+
+amiga_desktop_bckgrnd_tiled.bmp
+amiga_folder_bckgrnd_tiles.bmp
+
+to your <drive>:\os2\bitmap directory
+
+To install the theme, do the following:
+
+1. Open your
+
+system setup > Appearance folder
+
+and click on the "Icon Themes" Icon.  This starts ithemes.
+
+2. Scroll down and select the "An Amiga theme".
+
+3. Apply and reboot.  If all goes well, your folders, drives, and a few other miscellaneous icons will have changed.
+
+4. To change the desktop background, right click and select properties > Background. Uncheck color only and then select the "amiga_desktop_bckgrnd_stretched.bmp". Select the "tiled" open.
+
+5. To change a folders background, right click on a folder and select its properies and do the same thing you did to change the desktop background. This time, select the "amiga_folder_bckgrnd_tiles.bmp". Select the "tiled" open.
+
+6. To change the titlebar backgrounds, open your
+
+system setup > Appearance
+
+and select the "eStyler Preferences" icon. You can select the "amiga_active_titlebar.bmp" for the active window and the "amiga_inactive_titlebar.bmp" for the inactive windows.
+
+Apply and exit.
+
+Also included in the package is a system setup folder containing modified icons for the programs in your system setup folder. These will have to be manually and individually changed by you since there is no program that does this for you.
+
+
+Enjoy.
+
+David Graser

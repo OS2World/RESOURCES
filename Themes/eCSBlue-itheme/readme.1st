@@ -1,0 +1,28 @@
+This is a blue folder theme based on the eCS default folder icons created by Alessandro Cantatore.  I have modified the original theme changing the folder color to blue.  A few of the icons are creations of my own. These and the other icons found in this package are reserved for use with the eComStation operating system.
+
+Original 'eComStation' icons designed by Alessandro Cantatore. Additional icons by Alex Taylor. These icons are reserved for use with the eComStation operating system.
+
+Original 'OS/2' icons are presumably property of IBM Corp.
+
+Other icon sets may have their own terms and copyrights.
+
+To Install:
+
+1. Copy the eCSBlue directory to your drive:\ecs\system\itheme directory.
+
+2. Use a text editor to edit the file THEMES.LST. Add the following line to the end of the file:
+
+        ECSBLUE;Blue folders based on eCS Classic; Angled blue folders.
+
+where ECSBLUE is your theme identifier, and description is a one-sentence description of the theme (which will appear in the Icon Themes applet).
+
+3. Start ITHEME found in the system setup > appearance folder.
+
+4. Select the "blue Folders based on eCS Classic."
+
+5. Apply and then reboot.
+
+
+Enjoy,
+
+David Graser

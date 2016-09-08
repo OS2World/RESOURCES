@@ -1,0 +1,51 @@
+BOOKS is an itheme replacing the standard folders with sets of books.
+
+
+REQUIREMENTS: eComStation 2.0 with itheme installed.
+
+
+To install, just unzip and copy the "books" itheme directory to your
+
+<drive>:\ecs\system\itheme
+
+directory.  Add the following line to your "themes.lst" file found
+in the ithemes directory and then save it:
+
+BOOKS;A theme using sets of books in place of folders;Theme designed by David Graser
+
+
+CHANGING THEMES.
+
+Open your
+
+System setup > Appearance > Itheme > Available themes
+
+Select the theme, apply, and then reboot.
+
+Once booted up, you will see volumes of books in place of folders.
+
+TO REMOVE THEMES:
+
+Delete the books directory from your itheme directory and remove the
+
+BOOKS;A theme using sets of books in place of folders;Theme designed by David Graser
+
+from your "themes.lst file.
+
+Enjoy!
+
+David
+
+
+DISCLAIMER:
+
+The Icon Themes Applet and toolkit are copywrited 2002 - 2006 Alex Taylor.
+
+Original 'eComStation' icons were designed by Alessandro Cantatore. Additional
+icons by Alex Taylor. These icons are reserved for use with the eComStation operating system.
+
+Those icons created by me are reserved for use with the eComStation operating system.
+
+Original 'OS/2' icons are presumably property of IBM Corp.
+
+Other icon sets may have their own terms and copyrights.

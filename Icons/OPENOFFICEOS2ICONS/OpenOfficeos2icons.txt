@@ -1,0 +1,24 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: OpenOfficeos2icons.zip
+       Short Description: OS/2 icons for OpenOffice 1.x
+        Long Description: This is a collection of OS/2 icons for OpenOffice 1.x
+
+      Proposed directory
+           for placement:  /pub/multimedia/images/icons
+
+               Your name: Mike 
+           Email address: mikedespameddotos2usrdotorg
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: http://www.innotek.de/products/openofficeos2/beta/
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: OS/2 4.5x, eCS
+ Additional requirements: OpenOffice for OS/2
+
+                Replaces: (none)
