@@ -1,0 +1,13 @@
+These are just a few possible icons for Doom, the hot new 3D action
+game from id.  Two were captured from old screen shots and one from
+the startup screen; they were stuck into the icon editor via the OS/2
+clipboard.  To "install," unpack into a directory, view with the
+Drives container, drag an appropriate one onto the General page in
+the Doom settings notebook, and voila:  a 256-color icon.  (This
+only works under 2.1; for 2.0 I can never remember how to do it...)
+
+For some strange reason the icon editor calls these things an "EGA"
+form, even though they have 256 colors.  I don't understand it, but
+the results look good on my (SVGA) system....
+
+Greg Roelofs

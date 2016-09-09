@@ -1,0 +1,23 @@
+
+-------------------------------------------------------------------------------
+Richard Lee                                      Psychotronic BBS: 919-286-4542
+wolves.durham.nc.us!psybbs!rel				      1809 W Markham Av
+rel%psybbs@wolves.durham.nc.us				      Durham, NC 27705
+1:3641/1@fidonet.org
+-------------------------------------------------------------------------------
+
+I'd be the last to claim the world needs another icon collection but as long
+as I'd done these for my own use ... :->
+
+There are certainly some familiar pictures here as many of the icons are
+old timers that I modified to my own taste. E.g., I usually strip out
+backgrounds to give them a more 3 dimensional look. Others have small
+cosmetic improvements: more properly centered, a bit of raggedness removed.
+
+Some are just inverse on background. They show up B&W in IconView, there
+actually color will depend on the folder's color scheme.
+
+Anyway, the price is right.
+
+8/13/92
+

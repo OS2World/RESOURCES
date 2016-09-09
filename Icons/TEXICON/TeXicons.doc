@@ -1,0 +1,18 @@
+These are some (mostly) 16 colour icons for a TeX/LATeX package.
+They really require only three colours (black, white and dark grey)
+so they should be fairly independant of the pallete even on 16
+colour displays. The icon files also include monochrome versions.
+
+As of Tues. 8 Mar, 1994, this package should contain:
+ Size   EA's
+ 3498   187  BIBTeX.ICO
+ 3498   186  LaTeX.ICO
+ 5528    22  TeX-fold.ICO
+ 3498   159  TeX.ICO
+ 3498    50  TeXdoc.ICO
+
+As far as I'm concerned these are public domain.
+
+Comments to:
+Bruce Hollebone
+hollebon@chem.ubc.ca

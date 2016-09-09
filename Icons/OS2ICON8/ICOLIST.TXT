@@ -1,0 +1,218 @@
+The following is a BRIEF description of the icons contained in
+the OS2ICON2 package, by name: (*=new)
+
+123      - Lotus 123
+123CLR   - Lotus 123 (the logo on the box)
+35DISK   - 3 1/2" Diskette
+3DPACM   - Pac-Man "button"
+5-25_IN  - 5 1/4" Diskette
+688      - Submarine
+APPLE    - Apple logo
+APRO     - Ami Pro logo
+ARCADIA  - Arcadia logo
+ASHTON   - Ashton logo
+ATMCPANL - Mac-looking control panel with ATM "a"
+ATMSCHMP - Same as ATMCPANL but with a "palette" also
+AUTOCAD  - Autodesk logo
+*AVC      - Audio/Visual Connection
+*AVC2     - Audio/Visual Connection
+BACKGAMN - Backgammon board
+BLUEBOOK - The VIEW.EXE icon-blue
+BOLT     - Computer with lightning bolt
+BOOK     - The VIEW.EXE icon-olive green
+BOOKS3   - A collection of books seen edge on
+BOOT     - A boot kicking a rock
+BROKEWIN - Windows icon with broken glass
+BRUSHPAL - A color palette (palette is white)
+BULLSEYE - The "start here" icon repainted red
+CABINET  - Front view of a file cabinet
+CALVIN1  - Calvin (from Calvin and Hobbes)
+CAMERA   - A camera
+CAR      - A sportscar
+CARD     - An ace of hearts
+CARWRECK - A car accident scene
+CAUTION  - Yellow-explaination-in-a-triangle caution logo
+CDROM    - A CD-ROM
+CHECKERS - A checkers board
+CICS4    - Icon for CICS
+CIV      - An egyptian mask
+CLOVER   - A clover (3-leafed)
+CMDPRMT  - A monitor with a command prompt
+COKE     - A coke can
+COMPASS  - A "golden" commpass with earth in middle, space in back
+COREL    - Old coreldraw logo
+COSMOS1  - Telescope
+COSMOS2  - Globe with arrow pointing to a "you are here"
+*CPP      - IBM C++ Set/2
+CPROMPT1 - Command prompt
+CPROMPT2 - Command prompt
+CTRLPANL - A blank mac-style control panel
+CURLING  - Curling icon
+DICE     - Two dice
+DISKETTS - Diskettes
+DOORWAY  - Open door with a view
+DOS      - Dos window icon
+DOSEDIT  - Dos icon with a pencil
+DOSFROMA - 3.5" diskette going into a drive
+DOSFS    - Dos fullscreen icon
+DOSWIN   - A window with DOS on the outside
+*DOSWIN2  - DOS window
+*DUAL     - Dual Boot
+DRIVES   - A stylized drives icon
+EDITION  - A presentation-looking icon
+EDITOR   - Page with text with pencil
+EDITOR2  - Window with blue background and pencil
+ELEMENT  - Atom
+EXCEL    - MS Excel icon
+EYEC     - A nice-looking eye
+F16      - F16 Front-on
+FBSCANER - A scanner
+FILECAB3 - File cabinet
+FILELIST - File List
+FILM     - Film with rainbow
+*FISH2    - A tropical fish
+FIRE     - Fire
+FLOPPY   - 5 1/4" Floppy diskette
+*FLW      - Freelance for Windows
+FOLDERS  - Colorful folders
+FORM64   - ?
+FRACT    - Folder with a fractal
+FRACT_W  - Fractal in a window
+*FSDOS    - DOS in a fullscreen
+*FSOS2    - OS/2 in a fullscreen
+GALAXY   - Two-armed spiral galaxy
+GALAXY1  - Many-armed spiral galaxy
+GAMEFLDR - Folder with tetris blocks on the front
+*GOLF     - Golf icon
+GORILLA  - A gorilla
+GRAM     - Grammitik icon
+GRAPHICS - Palette
+GROUP3   - Group icon
+HAMMER   - Hammer and nail
+HARDFILE - From the drives icon, a hardfile
+HELP     - Help book icon
+*HG3      - ? (HG.3)
+HHSCANER - Handscanner
+HOBBES1  - Hobbes (from Calvin and Hobbes)
+HORN     - French horn
+IBM      - IBM Logo
+IBMAV2   - Microscope icon
+IBMWIN   - "Windows" icon with IBM
+INFO     - Information icon for blue desktops!
+*KQIV     - King's Quest VI
+KARAOKE  - Karaoke oriental icon
+*LINKWAY  - IBM Linkway
+LITEBULB - Lightbulb ("Gee, I have an idea!")
+LOGOFF   - Logoff (from UPM)
+LOGON    - Logon (from UPM)
+*LWLIVE   - Linkway Live
+MAHJONG1 - Mahjongg icon
+MAIL     - Envelope (overseas, by the look of it)
+MARS     - Mars (or is it pepperoni?)
+MEDICAL  - Twisted snakes logo
+MODEMLNK - Two computers linked via telephone
+MOON     - Sunrise over earth
+MOONB    - The moon
+MOULIN   - Pepper grinder (???)
+MOVIE    - Movie projector
+*MOVIE    - Movie projector
+MSDOS5   - MSDOS 5
+MUSICA   - Music icon
+NC       - Binary Editor icon
+NET      - Network icon
+NET2     - Network icon
+NETWARE  - Novell logo on folder
+NFL      - NFL logo
+NOVELL   - Novell logo
+OPTICAL  - Optical Drive icon
+OS2      - OS/2 window
+OS2FS    - OS/2 Fullscreen
+OS2NEW   - OS/2
+OS2SYS   - OS/2 System Logo in black
+OS2WIN   - Window with OS/2 in background
+*OS2WIN2  - OS/2 windowed
+PALETTE  - Mac-style control panel with palette
+PANA     - Printer icon
+*PBRUSH   - Paintbrush for windows icon
+PBRUSH1  - Paintbrush icon
+PC&MODEM - Modem with a PC
+PDOXOS2  - Paradox icon
+PGMFOLDE - Folder with a group logo on it
+PHONE    - Telephone
+PIECHT   - Pie chart
+PKUNZIP3 - Zipper unzipping
+PM4      - Hand writing a note with 4.0 on it
+PMAPPS   - PM Apps
+POOL     - Pool table
+POPE     - Pope (?)
+PORKYPIG - Porky pig
+*POWERPNT - MS Powerpoint
+PRODIGY3 - Prodigy star logo
+PROMPT   - Folder with a > prompt
+QMARK    - Question mark
+QUILL2   - Writing quill
+RECYCLE  - Blue/cyan recycle logo
+RECYCLE2 - Green recycle logo
+*REDX     - A big red "X"
+REXX     - Program with REXX spelled inside
+S-CHICKN - A chicken with a mask
+SATDISH  - Satellite dish
+SBB      - ?
+SCANNER  - Scanner button
+SCHEME   - Mac-style scheme palette logo
+SCHLSUPL - School supplies
+SCREEN   - Screensaver
+SCROOGE  - Scrooge McDuck
+SHEREKAN - Tiger
+*SHRED    - OS/2 Shredder
+SHUTDOWN - On-off switch (set off)
+SHUTTLE  - Space shuttle on launch pad
+*SIERRA   - Sierra logo
+SL       - SourceLink icon
+*SLIDES   - Slide for your projector
+*SMILE    - Goofy smile
+SMILEY   - Smiley face
+SPACE    - Earth with lanuching object
+SPEEDY   - Speedy Gonzalez
+*SPOT     - The 7up Spot
+SPREADSH - A spreadsheet (fixed for VGA)
+SQCLOCK  - A windows-style clock
+STARFLEE - Starfleet logo from StarTrek:TNG
+STARTWIN - A Window
+SWITCH   - A light switch
+TABLE    - Hand writing a note
+TAPEDRIV - Tape Drive icon
+TARTAN   - A guy playing bagpipes (I hope)
+THESEUS  - A logo for Theseus
+TOOLBOX  - Open tool box
+TOOLS    - Folder with a wrench on it
+TOOLS2   - Screwdriver and Hammer
+TRAIN    - Steam Locomotive
+TRASH    - Trash Can
+*TRASH2   - Trash Can (smells)
+TURTLE   - TMN Turtle
+UNICORN  - Unicorn
+USA4     - United States
+USA5     - US with flag superimposed
+USFLAG   - US flag
+UTA      - Oriental icon
+*VBASIC   - Visual Basic
+*VISPRO_R - VisiPro Rexx
+VM       - VM terminal
+VMCOPY   - VM Clipboard
+WATERFAL - Waterfall
+WELTRIS2 - 3-D Tetris logo
+*WINDOW   - A window in a brick wall
+WINDOWS  - Another broken window
+WINOS2   - Windows logo with "WINOS2" on it
+WORD     - Microsoft Word for Windows logo
+WORMS    - Worms (from OS/2 2.x toolkit)
+WP52     - WordPerf for Windows 5.2
+WPDOS    - Pencil in folder icon
+WPFOLD   - WordPerf Folder 5.2 icon
+WRITE    - Write (fixed for XGA) logo
+
+Revision 05/20/93
+Count: 211 icons
+pak
+

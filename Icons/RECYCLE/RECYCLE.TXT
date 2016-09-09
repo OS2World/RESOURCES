@@ -1,0 +1,24 @@
+       OS/2 Upload Information Template for ftp-os2.nmsu.edu
+
+Archive Name: recycle.zip
+Program Description: Chicago like recycling bin icon
+Operating System: Any OS/2 I believe - it is only 16 colors...
+Replaces: nothing
+Your name: Eric D. Mudama
+Your email address: edmudama@mit.edu
+
+Proposed directory for placement: /pub/os2/2_x/graphics/icons
+
+===========================================================================
+
+I was looking at my copy of Windows Sources and decided to try to draw
+the Recycling bin icon on the cover that appears to be in the upcoming
+"Chicago."  So I did.  Since the two GUI's are so similiar, I figured
+that you could fool some naive Windows users by replacing your trash folder
+with this icon and making a few other cosmetic changes.  Well, have fun.
+
+Oh, of course it's free too.
+
+--Eric Mudama
+edmudama@mit.edu
+

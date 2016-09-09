@@ -1,0 +1,12 @@
+JOEICONS.ZIP -- A collection of OS/2 2.x icons
+
+-----------------------------------------------
+
+Every time I find myself installing an OS/2 beta I end up wading through 
+approximately 1 Megabyte worth of zipped icons.  The handful I have included
+here have become my favorite and most-often used choices.  Several of these
+have appeared elsewhere, while others are taken from Windows 3.1 and still 
+others are original creations.  
+
+Joe Anstett
+jra1746@hertz.njit.edu

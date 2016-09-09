@@ -1,0 +1,3 @@
+Since OS/2's Shredder icon looks too much like a printer, this icon, much
+more nicely done, is suitable to replace the default.  It comes from
+Norton's Desktop for Windows.  

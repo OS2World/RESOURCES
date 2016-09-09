@@ -1,0 +1,22 @@
+The files in this ZIP are ICONs.  There is one file for each ICON
+distributed with OS/2 2.0 and contained in PMWP.DLL.  OS/2 relates these
+ICONs to system objects such as folders, drives, printers, servers,
+etc.
+
+A simple way to see how OS/2 associates ICONs to system objects is to
+examine the INI.RC file in the \OS2 directory.  This file is used with
+MAKEINI.EXE to rebuild the OS2.INI file when it gets damaged.  Within
+the INI.RC file, an ICON is associated with an object using a specific
+ICON resource.  For example:
+
+"PM_InstallObject" "Information;WPFolder;<WP_DESKTOP>"
+  "HELPPANEL=13092;ICONRESOURCE=60 PMWP;ICONPOS=5 57;OBJECTID=<WP_INFO>"
+
+The name of each ICON file in this ZIP is in the format OS2RESnn.ICO
+where nn is the PMWP.DLL ICON resource number.  Using the example above,
+you can view ICONRESOURCE=60 by displaying OS2RES60.ICO using the ICON
+Editor or the File Manager.
+
+Any comments or questions should be addressed to Tom Bason on the
+OS/2 Shareware BBS - 703-385-4325...
+

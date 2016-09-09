@@ -1,0 +1,310 @@
+Railway icons for OS/2
+
+January 1994
+
+By  tbk -- Tobias B K”hler (s_koehler@iravcl.ira.uka.de)
+and bdc --   Brad D Clark      (clark@brahms.amd.com)
+
+These icons exist for Windows as well
+
+Country given in angle brackets (ISO 3166 code)
+
+NEM 800 eras:
+era O   1800Ä1899    era I   1900Ä1919    era II  1920Ä1945
+era III 1946Ä1967    era IV  1968Ä1985    era V   1986Ä2000
+
+Description of the icons:
+ab.ico        Appenzellerbahn <CH>, era IVÄV. The AB circulates in 
+              the north-east of Switzerland, in the cantons AI & AR
+act.ico       Azienda comunale dei trasporti Lugano <CH>, era IVÄV.
+              City transport of Lugano (in the Ticino)
+amtrak1.ico   Amtrak, American rail passenger service <US>, arrow
+amtrak2.ico   Amtrak, black lettering on red/white/blue stripe
+arr.ico       Alaska railroad <US>
+atsf1.ico     Atchison Topeka and Santa Fe Railway <US>, 
+              "Warbonnet" front
+atsf2.ico     Santa Fe white/blue roundel
+atsf3.ico     Santa Fe 'standard blue & yellow' front
+atsf4a.ico    Santa Fe logo (side of F7B units), left
+atsf4b.ico    Santa Fe logo, like atsf4a, right
+atsf5.ico     Santa Fe red/grey "warbonnet" locomotive painting 
+              scheme, side-view
+atsf6.ico     Santa Fe "warbonnet" front of E 8 locomotive
+avg1.ico      The old logo of the Albtal-Verkehrsgesellschaft <DE>:
+              urban and regional trains around Karlsruhe (Baden)
+avg2.ico      New AVG logo (intermediate see vbk-avg.ico)
+b-m.ico       Boston & Maine <US> Ä early 50's scheme, era III
+b-o.ico       Baltimore & Ohio <US> Ä the oldest railroad of the
+              USA, now part of CSX
+baden.ico     Groáherzoglich Badische Staatseisenbahnen <DE>, era I
+              Ä it became part of the DRG in 1920
+bd.ico        BremgartenÄDietikon <CH>
+bls1.ico      BernÄL”tschbergÄSimplon <CH>, era V. One of the most
+              important Alp crossings. operates several other RRs
+bls2.ico      The new BLS logo
+bn_ch1.ico    BernÄNeuchƒtel <CH>, member of the BLS group, era V. 
+              Used by the TGV Champs-lys‚es ParisÄBern. Old logo
+bn_ch2.ico    The new logo of the Swiss BN
+bn_us.ico     Burlington Northern <US>
+bob.ico       BodenseeÄOberschwaben-Bahn <DE>
+br1.ico       British Rail <GB>, era IIIa
+br2.ico       British Rail <GB>, era IIIb
+br3.ico       British Rail <GB>, era IV
+bt.ico        BodenseeÄToggenburg <CH>, era IVÄV
+burlingt.ico  Chicago, Burlington & Quincy <US>, "The Burlington 
+              Route" Ä now part of Burlington Northern
+bvz.ico       BrigÄVispÄZermatt <CH> meter gauge rack railway
+c-nw.ico      Chicago & North Western <US>
+c-o1.ico      Chesapeake & Ohio `Chessie' <US> Ä now part of CSX
+c-o2.ico      C and O for progress: logo on yellow caboosim
+cd.ico        Ceske Drahy <CZ>, one successor of CSD, era V
+cfl1.ico      Chemins de fer luxembourgeois <LU>, era IIIÄIV
+cfl2.ico      Chemins de fer luxembourgeois <LU>, era V
+chessie1.ico  Chessie System <US>, a merger of Chesapeake & Ohio, 
+              Baltimore & Ohio and Western Maryland. Now part of CSX
+chessie2.ico  Chessie logo on locomotives (red/yellow background)
+ciwl0.ico     Compagnie internationale des wagons-lits et des
+              grands express europ‚ens, era I, 19th century
+ciwl1.ico     CIWL, era IÄIV, used at passenger cars, gold/blue
+ciwl1br.ico   like ciwl1, gold/brown
+ciwl2a.ico    CIWL, era II, round logo for dishes
+ciwl2b.ico    CIWL, era II, round logo for printed publications
+ciwl3.ico     CIWL, era IV, gold/blue
+ciwl3w.ico    CIWL, era IV, white/blue
+ciwl4.ico     Wagons-Lits, era V, used since the introduction of 
+              EuroNight trains, gold/blue
+ciwl4w.ico    Wagons-Lits, era V, gold/white
+cn.ico        Canadian National <CA>
+conrail.ico   Consolidated Rail Corporation <US>, Northeast
+conrailq.ico  Conrail Quality logo
+cp.ico        Caminhos de ferro Portugueses <PT>
+cprr1.ico     Canadian Pacific Railroad <CA/US>, era IV
+cprr2a.ico    CP Rail, new logo, combination of the US and CA flags
+cprr2b.ico    Another version of the new CPRR logo
+cr.ico        China railways <CN>
+csd.ico       Ceskoslovenske Statny Drahy <CS>, era IV -- now divided
+              into CD and ZSR
+csx1.ico      Chessie & Seaboard eXtended Transportation <US>. B&O, 
+              C&O, and a couple of other roads went into the CSX
+csx2a.ico     The new CSX paint scheme
+csx2b.ico     The new CSX paint scheme (condensed)
+d-h1.ico      Delaware & Hudson <CA>, now part of CPRR System
+db0.ico       One early DB logo at the front of VT 08 railcars
+db1.ico       Deutsche Bundesbahn <DE>, era IIIÄIV. The DB operated 
+              in the region formerly known as FRG
+db2.ico       DB, era IV, the `cookie' as it appeared on ocean blue/
+              beige vehicles, 1974 to 1986
+db3.ico       DB, era V, light grey/orient red, used from 1987 
+              until end of 1993
+dbag1.ico     logo of the Deutsche Bahn AG, successor of DB and DR
+              since 1994, era V Ä ugly
+dbag2.ico     one of my suggestions for a better DBAG logo
+dbag3.ico     another suggestion for a better DBAG logo
+dbag3n.ico    same, but on red background
+dr.ico        Deutsche Reichsbahn <DE>, era IIIÄV, green. The DR
+              operated in the region formerly known as GDR
+drg.ico       Deutsche Reichsbahn-Gesellschaft <DE>, era II. The
+              round eagle was used from 1920 to 1938
+dsb.ico       Danske Statsbaner <DK>, era IVÄV
+ebt.ico       EmmentalÄBurgdorfÄThun <CH>
+ebtgroup.ico  EBT/SMB/VHB group <CH>, era IVÄV
+ec.ico        EuroCity (European quality train), era V.
+ecx.ico       EuroCity eXpress (future European high speed 
+              trains), era V
+el.ico        Erie Lackawanna <US>, now part of Conrail
+emd.ico       Electro-Motive Division logo
+en.ico        EuroNight, high quality night trains in Europe since 
+              1993
+erie.ico      Erie Railroad <US>
+eurostar.ico  eurostar (high speed train Paris/BruxellesÄLondon), 
+              era V
+f'o.ico       detail of a ®Flˆche d' Or¯ pullman car of the CIWL
+fo.ico        FurkaÄOberalp <CH>, era IVÄV. Meter gauge railway 
+              from Brig to Disentis, used by the famous Glacier-
+              Express
+frisco1.ico   Frisco <US>
+frisco2.ico   Frisco
+frisco3.ico   Frisco
+fs1.ico       Ente Ferrovie dello Stato italiano <IT>, era IIIÄIV
+fs2.ico       Ferrovie dello Sato SpA, era V
+gbs1.ico      GrbetalÄBernÄSchwarzenburg <CH>, member of BLS group
+gbs2.ico      The new GBS logo
+ggb.ico       Gornergratbahn <CH> rack line from Zermatt up
+gm.ico        General Motors logo (engine builder)
+gn.ico        GlionÄRochers de Naye <CH>, member of MOB group
+gnr1a.ico     Great Northern Railroad <US> Ä blue/black/white logo
+gnr1b.ico     GNR Ä blue/white
+gnr2.ico      paint scheme of the GNR Ä now part of Burlington N.
+go.ico        GO Transit Ä commuter railroad in Canada, I think
+gt1.ico       Grand Trunk railroad <US> Ä midwestern RR Ä old 
+              colors, white/blue
+gt2.ico       GT Ä new paint scheme (same colors as Union Pacific)
+guilford.ico  Guilford Transportation <US>
+gw.ico        Great Western Rwy <US>
+gwr.ico       Great Western Railway <GB> Ä began with 2135 mm 
+              gauge, changed to standard gauge from 1868 to 1892,
+              now part of British Rail
+helm.ico      HELM Leasing Ä leases locomotives to rail roads
+hupac1.ico    HUPAC, Swiss piggyback corporation, era IV
+hupac2.ico    black/white/red version of HUPAC logo, era V
+hz.ico        Croatian railways (HZ) <CR> era V (successor of JZ)
+ic1.ico       InterCity (national quality train), era IVÄV
+ic2.ico       InterCity (Austrian quality train), era V
+ice1.ico      InterCity Experimental (German experimental train),
+              also used in Hamburg for InterCity Express
+ice2.ico      InterCityExpress (German high speed train), era V
+ice3.ico      A new ICE logo, designed by me
+if.ico        InterFrigo, European refrigerator car pool
+ilc1.ico      Illinois Central Railroad <US>
+ilc2.ico      Illinois Central
+ilc3.ico      Illinois Central
+ilc4.ico      Illinois Central
+jcl.ico       Jersey Central Lines <US> Ä now part of Conrail, I think
+jnr.ico       Japan National Railway <JP>
+jr.ico        Japan Rail, successor of JNR
+kvv2.ico      Karlsruher Verkehrsverbund (AVG, DBAG, VBK) era V
+l-n1.ico      Louisville & Nashville <US>, upright
+l-n2.ico      L&N, italic
+l-n3.ico      L&N, red, italic
+lirr1.ico     Long Island RR <US>, operated by PRR, tbk's approach
+lirr2.ico     LIRR, bdc's approach
+lmx.ico       LMX Leasing Ä leases locomotives to rail roads
+lse.ico       LuzernÄStansÄEngelberg <CH> meter gauge line
+lsi1.ico      LSI, green/white. This is the front of loco herald
+lsi2.ico      The LSTI logo, green/white
+lx.ico        detail of a Lx sleeping-car of the CIWL
+mav.ico       Magyar µllamvasutak <HU>, era IVÄV
+mcg.ico       modelleisenbahnclub gundelfingen, era IV
+mgl.ico       MontreuxÄGlion <CH>, member of the MOB group
+milw.ico      The Milwaukee Road <US> (CMStP&P=Chicago, Milwaukee, 
+              St. Paul & Pacific) now part of Burlington Northern
+mob.ico       MontreuxÄOberland Bernois <CH>, NG railway in South-
+              West Switzerland
+mrl.ico       Montana Rail Link <US>
+n-w.ico       Norfolk and Western <US>
+nbs1.ico      symbol for DB new lines (Neubaustrecken), era IV
+nbs2.ico      symbol for DB new lines, era V
+ncry1.ico     N.C.Railway Ä what is this? Brad Clark knows ;-)     
+ncry2.ico     N.C.Ry
+ndem.ico      Nacional de Mexico <MX>, one of the big railroads in 
+              Mexico
+nh.ico        New York, New Haven & Hartford <US>, now part of Conrail
+nj.ico        New Jersey <US> Ä a commuter railroad
+nkp.ico       Nickel Plate Road <US>
+nprr.ico      Northern Pacific RR <US>, now part of Burlington 
+              Northern
+nsb1.ico      Norges Statsbaner <NO>, era III
+nsb2.ico      Norges Statsbaner <NO>, era V
+nswptc.ico    New South Wales Public Transportation <AU>
+ns_nl1.ico    Nederlandse Spoorwegen <NL>, era IVÄV, blue background
+ns_nl2.ico    Nederlandse Spoorwegen <NL>, era IVÄV, yellow background
+ns_us1.ico    Norfolk Southern <US>, white/black front of loco 
+              herald
+ns_us2.ico    Norfolk Southern, with lettering
+ns_us3.ico    Norfolk Southern, NS logo (side of locomotive)
+nyc1.ico      New York Central System <US>
+nyc2.ico      New York Central
+”bb1.ico      ™sterreichische Bundesbahnen <AT>, era III
+”bb2.ico      ™BB, era IVÄV
+oc-t1.ico     Oil Creek & Terminal <US> Ä was a stub of the old 
+              Pennsylvania RR
+oc-t2.ico     OC&T, white/black
+on.ico        Ontario Northland <CA>
+pc.ico        Penn Central <US>, merger of the PRR and some 
+              other railroads, now part of Conrail
+prr1.ico      Pennsylvania Railroad <US> Ä tbk's approach to the PRR 
+              logo Ä now part of Conrail
+prr2.ico      bdc's approach to the PRR keystone
+pullman.ico   British Pullman Car Company <GB>, era II
+qr.ico        Queensland Railway <AU>
+rbm.ico       reisebro mittelthurgau <CH>, owns the famous dome
+              cars and the Nostalgie-Istanbul-Orient-Express
+renfe.ico     Red Nacional de los Ferrocarriles Espa¤oles <ES>, 
+              era IVÄV
+rf-p.ico      Richmond, Fredricksburg & Potomac <US> Ä in the 
+              Washington DC area
+rhb1.ico      Rh„tische Bahn / Viafier Retica / Ferrovia Retica 
+              <CH>, era IVÄV. Important meter gauge rail, era II
+rhb2.ico      RhB era III, green paint scheme
+rhb3.ico      RhB era IV, red paint scheme
+rhb4.ico      RhB era V, slightly modified
+rock_isl.ico  Rock Island RR <US>
+s.ico         S-Bahn (urban railway systems) in Germany, era IIÄV
+              S = Stadt-, Ring- und Vorortbahn, Stadtschnellbahn
+sbb-cff1.ico  Schweizerische Bundesbahnen / Chemins de fer 
+              f‚d‚raux suisses / Ferrovie federali Svizzere <CH> 
+sbb-cff2.ico  SBB CFF FFS, '70s logo
+sbb-cff3.ico  SBB CFF FFS, era V. On the side of new locomotives, a 
+              large striped emblem is used
+sbb-cff4.ico  SBB CFF FFS, era V, used together with `SBB CFF FFS'
+              inscription
+sbb-ffs2.ico  same as SBB-CFF2, but German/Italian inscription
+scl.ico       Seaboard Coast Lines <US>
+sez1.ico      SpiezÄErlenbachÄZweisimmen <CH>, era V, member of BLS
+              group, connects BLS and MOB
+sez2.ico      The new SEZ logo
+sj1.ico       Svenska statens J„rnv„gar <SE>, era IV
+sj2.ico       SJ, era V, well known in the US for their X2000
+smb.ico       SolothurnÄMo–tier-Bahn <CH> part of EBT group
+sncbnmbs.ico  Soci‚t‚ nationale des chemins de fer belges / 
+              Nationale Maatschappij van Belgische Spoorwegen <BE>
+sncf1.ico     Soci‚t‚ nationale des chemins de fer fran‡ais <FR> 
+              (round), era III
+sncf2.ico     SNCF, era IV
+sncf3.ico     SNCF (`nouilles'), era V
+sob.ico       Schweizerische Sdostbahn <CH> era IVÄV
+soo1.ico      The "Soo line" <US> Ä old color scheme
+soo2.ico      Side herald of new Soo Line colors
+soo3.ico      Front herald of new Soo Line colors Ä part of CPRR 
+              system
+sp1a.ico      Southern Pacific <US>. Best attempt of Southern 
+              Pacific front loco herald
+sp1b.ico      This was supposed to be the SP "Black Widow" scheme
+sp2a.ico      Southern Pacific, round logo (blue)
+sp2b.ico      Southern Pacific, round logo (green)
+sp2c.ico      Southern Pacific, round logo (brown)
+sprg.ico      Southern Pacific and Denver & Rio Grande Western,
+              after the merger
+sr.ico        Southern RR <US> Ä now part of Norfolk Southern
+sz.ico        Slovenian Railways <SI>, era V. Successor of JZ
+szd1.ico      Soviet railways <SU>, era IIÄIV, used from 1917 to
+              1992
+szd2c.ico     The other SZD logo, used in print media, Cyrillic
+szd2l.ico     Latin version of szd2
+szu1.ico      SihltalÄZrichÄšetliberg <CH>. Old logo. In 1973 the
+              BZUe and SiTB merged into the SZU
+szu2.ico      The new SZU logo
+tbk.ico       the tbk logo :-)
+tee.ico       Trans Europ Express (European luxury train 1957 to
+              1987), era IIIÄIV
+ten.ico       Trans Euro Night (or .... Nacht, Nuit, Notte), a pool 
+              of European sleeping cars
+tg.ico        TerritetÄGlion <CH>, another railway in the MOB group
+tgv_a.ico     Train … grande vitesse (French high speed train), 
+              era V (TGV Atlantique paint scheme, side view)
+tgv_se.ico    TGV logo, TGV Sud-Est paint scheme (orange)
+uic.ico       Union internationale des chemins de fer, a union of 
+              most European and some overseas railways
+uprr1.ico     Union Pacific RailRoad <US>. The UPRR badge.
+uprr2.ico     side inscription of UPRR colors
+v-line.ico    Victoria Line <AU>
+v-t.ico       Virginia & Truckee RR <US>
+vbk-avg.ico   Verkehrsbetriebe Karlsruhe & Albtal-Verkehrs-Gesell-
+              schaft, new logo after the merger of both railways
+vbk.ico       Verkehrsbetriebe Karlsruhe <DE>, newest logo
+vbz.ico       Verkehrsbetriebe Zrich <CH> Ä Tramway system
+VHB.ico       Vereinigte Huttwil-Bahnen <CH> part of EBT group
+via1.ico      VIA Lines <CA>, Canada's answer to Amtrak
+via2.ico      The new logo of VIA Rail (Canadian passenger trains)
+vicrail.ico   Victoria Rail <AU>
+vr.ico        Valtionrautatiet <FI>, era IV
+vtg.ico       Vereinigte Tanklager- und Transportgesellschaft, 
+              the most important German owner of tank wagons
+w-s1.ico      Wisconsin & Southern <US>, an American 'short line'
+wb.ico        Waldenburgerbahn <CH>, era IVÄV. A narrow gauge line 
+              near Basel
+wwf.ico       World Wildlife Fund for Nature, also used for the
+              first international ICE ®Panda¯
+x2000a.ico    X2000 (Swedish high speed train), light grey
+x2000b.ico    X2000, dark gray
+

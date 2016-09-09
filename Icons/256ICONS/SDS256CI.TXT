@@ -1,0 +1,44 @@
+This is the second set of SDS Icons released from Stardock Systems.
+
+It is a collection of original icons that were mostly inspired from
+System 7 of the Macintosh computer while others were taken from
+popular video games that are on some of our customer's machines.
+
+Note.  These will look "goofy" if you have less than 256 colors.
+
+A new device has been created for these icons: "Super VGA".  It
+is a resolution specificed of 32x32 (for icons) on systems up to but
+not including 1024x768.  They have a pallette of up to 256 colors.
+
+Some of the more useful icons have 8514 devices and "Tiny" Devices
+(16x16).
+
+If you experience any difficulties or have any comments please
+leave them to our SDS Internet agent: Brad Wardell.  Internet address:
+
+x90wardell@wmich.edu
+
+------------------------------------------------------------
+
+If you like this set of icons, you may also like our enhanced VGA
+set of icons "SDS Icons" which are icons with 16 colors in them but
+have customized palletes for each one (meaning they will probably not
+look good on non-256 color systems.
+
+Stardock Systems is a Michigan based company that sells among other
+things, OS/2 based computer systems at unsually low prices.
+
+-------------------------------------------------------------
+
+Coming soon:
+
+The SDS OS/2 2.1 support guide. 
+A comprehensive guide to using and enhancing OS/2 2.1.
+Free to those with Internet access.  It is the summation of
+SDS's technical support experience with OS/2.  Has a method
+to recover from virtually any crash.  From black screens on bootup
+to screens with only the cursor on bootup.
+
+Coming soon after OS/2 2.1 is OFFICIALLY released.
+
+

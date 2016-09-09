@@ -1,0 +1,84 @@
+Hi,
+
+  This file was created by Kevin Lowey, sysop of Fidonet node 140/43,
+LOWEY.SASK.USASK.CA on Internet.  The file describes how to use the .ICO
+files in this archive to create Presentation Manager icons for full
+screen programs.  It was added to the original distribution of .ICO
+files (which was NOT created by me) so that people would know how to use
+the .ICO files.  This file was NOT a part of the original distribution. 
+
+  OS/2 has two types of programs.  Presentation Manager programs are
+applications designed for the OS/2 Presentation Manager found in OS/2
+version 1.1 and higher.  Full Screen applications ignore the
+Presentation manager and do everything using the full screen. 
+
+  The OS/2 Presentation Manager has the ability to run most full-screen
+applications in a "text window".  This is a window that can be moved on
+the screen, re-sized, etc.  just like any other Presentation Manager
+window.  It can also be shrunk down into an Icon to give you more room
+on the desktop. 
+
+  True Presentation Manager applications include the icon as part of the
+program, however, since Full Screen applications don't know anything
+about Presentation Manager, they also don't know anything about Icons. 
+  
+  By default, when a text window is minimized to an Icon, you get a
+"blank screen" icon.  Unfortunately, if you have many different programs
+running in various text windows, such as Kermit for OS/2 in one window
+and MicroEMACS in another, there is no way of telling them apart by
+looking at these "blank screen" icons. 
+
+  OS/2 provides a solution to this using .ICO files.  A number of these
+have been included in this archive.  These are files which describes an
+icon to OS/2.  OS/2 associates this icon with the executable file in the
+same directory as the .ICO file with the same first name as the .ICO
+file.  In this way we can use the .ICO files to create icons for
+programs not originally written for the Presentation Manager. 
+
+  Below is an example of using these Icons.  I'll assume you wish to use
+the TYPEWRIT.ICO file (a picture of a typewriter) as the icon to
+represent the MicroEMACS editor (in the file c:\OS2PRG\EMACS.EXE).  To
+simplify the example, I'll assume that the .ICO files are stored on a
+floppy diskette on drive a:. 
+
+1) From Presentation Manager, start up either the Windowed or Full-Screen 
+   OS/2 command prompt.
+
+2) Copy the desired .ICO file from the floppy diskette.  Rename it as you 
+   copy so the first part of the name is the same as the .EXE file you 
+   wish to execute.  Be sure to copy the .ICO file into the same directory 
+   as the .EXE file you want the icon to be associated with.
+
+   COPY A:TYPEWRIT.ICO C:\OS2PRG\EMACS.ICO
+
+3) Return to the Presentation Manager by typing EXIT.
+
+4) Install the application (EMACS in this case) into your "Start Programs" 
+   menu.  Tell "Start Programs" that the program should run in a text window.
+   (See your OS/2 manuals for more details on installing applications in the
+   Start Programs menus)
+
+
+  That's all there is to it.  Now you can either use the "start" command
+from the STARTUP.CMD file to start the EMACS program automatically at
+boot time, or you can select the EMACS editor from the Start Programs
+menu.  When you minimize the program into an icon, the icon described
+by the .ICO file will be displayed. 
+
+
+  IN SUMMARY
+
+  For the .ICO files to work, remember the following:
+
+   1) It only works with .EXE or .COM files (NOT .CMD files)
+
+   2) The .ICO file must be in the same directory as the .EXE or .COM file.
+
+   3) The .ICO file will only work when using the START command or when 
+      selecting a file from the START PROGRAMS menu.  It will not use that
+      icon if it is run from the OS/2 Windowed Command Prompt.  (When you 
+      minimize a program running in the Windowed command prompt, you are
+      actually minimizing the Windowed Command prompt, so you get its
+      "blank screen" icon, not the icon of the application running within it).
+
+-- Kevin Lowey

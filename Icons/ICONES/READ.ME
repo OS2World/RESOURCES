@@ -1,0 +1,154 @@
+                           IconEase Version 1.30
+
+
+FOREWORD BY THE AUTHOR - 2/13/93
+
+Before I even say anything about this utility, I would like to take a moment
+to thank everyone for the support and acceptance that I received for my last
+adventure into shareware, the Workplace Shell Backup Utility.  I've just been
+absolutely thrilled to death!  I wish that I could afford to do this full time.
+
+That being said, I would like to thank you for trying the IconEase utility.  I
+would also like to extend a very special thanks to Ron Beauchemin for taking
+the time and effort required to place unformatted copies of over 3300 icons 
+into the public domain by way of Compuserve. Finally, thanks to my willing 
+testers and long time associates Joe Lynagh and Don Swam.  
+
+IconEase is an attempt to take some of the pain out of changing default 
+icons that appear when you install programs and other objects on your desktop.
+I won't go into a lot of discussion here about how IconEase works.  First of
+all, I tried my best to make it so easy to use that explaining it would be 
+less than necessary.  Secondly, I did spend a fair amount of time putting 
+together the help file for IconEase.  Please, take a couple of moments and 
+check it out.
+
+I will set aside a little space now to describe installation considerations.
+It's a good bet that since you're reading this, there is no need to tell you
+to unzip the file into a directory.  Here's how you finish up:
+
+- Make sure that your config.sys file has SET statements for the environmental
+  variables TEMP and TMP.  If not, select a drive that has a little bit of 
+  space available and create a directory in its root.  For the purpose of this
+  discussion, let's say that you chose drive D: and created directory \TEMP.
+  Then, you should add the following two statements to your config.sys file
+  and reboot your PC:
+     SET TEMP=D:\TEMP
+     SET TMP=D:\TEMP
+- Open the templates folder, drag a Program Template object and drop it in
+  a folder of your choice.
+- The new program object will automatically open to the settings page.
+- Complete the "Path and file name:" entry field by typing in the full path
+  name of the IconEase program.  For example, if you unzip'ed IconEase into
+  the directory, D:\MYPGMS, then enter D:\MYPGMS\ICONEASE.EXE into the "Path
+  and file name:" entry field.
+- Enter that same directory path into the "Working directory:" entry field.
+  In keeping with the above example, that would be D:\MYPGMS.
+- Mouse click the General tab and enter a title for IconEase that will display
+  below its icon in the folder you selected.  I use IconEase for the title.
+- Close the settings notebook and "LET'S GET READY TO RUMMMMMMBLLLLLE!"
+
+Advanced Installation Topic
+
+I've recently learned a little trick that I find convenient for the IconEase
+utility.  You can add IconEase to the Workplace Shell's popup menu.  (That's
+the menu that appears when you point the mouse at the desktop and press the 
+right mouse button.)  So, IconEase is always just a couple of mouse clicks
+away!  Follow this procedure if you would like to update the WPS menu:
+
+- Before you start, follow the above procedure to create a normal program
+  object for IconEase.  Make sure that the folder in which you have placed
+  the IconEase program object is open.
+- Point to the desktop and press the right mouse button.
+- Point at the arrow that appears on the right of the Open menu item and 
+  press the left mouse button.
+- Point at the Settings submenu item and press the left mouse button.
+- Point at the Menu notebook tab and press the left mouse button.
+- Press the "Create another..." button located in the CENTER of the page.
+  It is CRITICAL to press the button in the center of the page.  If you 
+  press the top button, you're going on a different mission entirely.
+- You've finally arrived at the Menu Item Settings panel.  Type IconEase
+  in the "Menu item name:" entry field. 
+- Press the "Find program..." button.
+- Now, press the "Locate..." button on the Find panel.
+- Underneath the words "Select a folder:" you should see the open folder in 
+  which you have already installed the IconEase program object.  Make sure
+  that folder is selected by clicking it with the left mouse button.
+- Press the "OK" button.
+- Left button click the "Search just this folder" radio button on the Find
+  panel.
+- Left button click the "Find" button.
+- Point at the IconEase icon in the "Find Results" window and select it by
+  clicking the left mouse button.
+- Press the "OK" button in the "Find Results" window.
+- Press the "OK" button in the "Menu Item Settings" window.
+- Close the "Desktop - Settings" notebook.
+
+You're done!  Wasn't that fun!  At any rate, now when you point at the desktop
+and click the right mouse button, you can select IconEase.  It should appear
+as the last menu item.
+
+
+================== Revision History ======================================
+
+Rel 1.30 - 
+    - Initial offering of the GenICDB utility that enables registered
+      users to format their own IconEase catalog files.
+    - Added some code in the clipboard routine to catch non-PM 1.2
+      formatted icons.
+    - Updated the help files as required for GenICDB.
+
+Rel 1.25 - 
+    - Added drag/drop extraction capability
+    - Moved the Icon Editor launch function to a button control
+    - Updated Help as required for above 
+
+Rel 1.24 - 
+    - Included a workaround for WinSetWindowPos to avoid a problem in
+      an upcoming operating system release.
+
+Rel 1.22 - 
+    - Fixed the initial logo dialog to honor user system logo time setting.
+    - Added Help button (due to popular demand.)
+    - Made misc. and sundry changes in the help file.
+
+Rel 1.21 - 
+    - Discovered that Ron Beauchemin was the original source of the over
+      3300 icons that I downloaded from CIS.  Thanks again, Ron.
+    - Remembered to give credit to my two willing testers and friends.
+    - Gosh, sometimes programming is such a pain in the but!  I've been 
+      looking for a problem in the program that appeared only on my 
+      associate Joe's PCs.  Thought it was rare, but it turned out to be
+      fairly common in distribution.  I've been creating non 8.3 names to
+      use in the reconstitution of the icon file!  The problem showed up
+      only on FAT systems or systems that had the TEMP and TMP variables
+      pointed at FAT drives.  Nuts! (but it's fixed.)
+
+Rel 1.20 - 
+    - Removed references to Iconic Paste from help file
+    - Added "how to" instructions to help for icon editor launch
+    - Added TEMP and TMP environmental variable instructions to read.me
+    - Added check to IconDB open to avoid opening non-db files
+
+Rel 1.15 - 1st general distribution
+
+================== SUPPORT SHAREWARE =====================================
+
+I hope you find this utility helpful, but (here comes the disclaimer) I am
+in no way responsible for any damages the use of this utility may cause.
+You are free to use this utility at your own risk with no obligation to me,
+the author, for only a short period of time.  Please see the Registration
+topic in the Help file for IconEase.  You can get help for IconEase by
+pressing the F1 key anytime that the IconEase application is running.
+
+
+
+Thanks, once again, for trying IconEase,
+
+Dave Lester
+PO Box 461
+New Freedom, PA. 17349 USA
+
+Comments, suggestions and bug reports may be submitted through CIS Mail
+ID 75600,237.  These will be answered on a "best effort" basis.
+
+
