@@ -1,3 +1,9 @@
+I'm thinking to conver this into the 
+
+- "The OS/2 Classic Icon Collection"
+
+
+
              THE OS/2 Icon Collection #10 - Standard .ICO Edition
              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
